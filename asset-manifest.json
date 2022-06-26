@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Project-1/static/css/main.860cb534.css",
+    "main.js": "/Project-1/static/js/main.b41e46d0.js",
+    "static/js/787.6c99c6be.chunk.js": "/Project-1/static/js/787.6c99c6be.chunk.js",
+    "static/media/images-solid.svg": "/Project-1/static/media/images-solid.375596666223512bc5ea84f23dbd2b5d.svg",
+    "static/media/rotate-solid.svg": "/Project-1/static/media/rotate-solid.0075ffcde5d4179bee9e675d4ef6c202.svg",
+    "static/media/video-slash-solid.svg": "/Project-1/static/media/video-slash-solid.b1a6c1c6ada1c5ad629d5a7734f47c6b.svg",
+    "static/media/x-solid.svg": "/Project-1/static/media/x-solid.e5b1d7976f910dca8bd40cfa56920235.svg",
+    "index.html": "/Project-1/index.html",
+    "static/media/trash-solid.svg": "/Project-1/static/media/trash-solid.c95a580b8ef527484654e138e0d06607.svg",
+    "static/media/check-solid.svg": "/Project-1/static/media/check-solid.8eae648aef668862a0fcd5293d396ae7.svg",
+    "static/media/video-solid.svg": "/Project-1/static/media/video-solid.c0644eed57f4478b92b63ccff6416776.svg",
+    "static/media/circle-solid.svg": "/Project-1/static/media/circle-solid.d2ce10f5d139e106b580d8741d752e13.svg",
+    "main.860cb534.css.map": "/Project-1/static/css/main.860cb534.css.map",
+    "main.b41e46d0.js.map": "/Project-1/static/js/main.b41e46d0.js.map",
+    "787.6c99c6be.chunk.js.map": "/Project-1/static/js/787.6c99c6be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.860cb534.css",
+    "static/js/main.b41e46d0.js"
+  ]
+}
